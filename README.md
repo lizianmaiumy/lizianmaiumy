@@ -21,4 +21,4 @@
 
 ### 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/o-seu-perfil](https://www.linkedin.com/in/lizianmaiumy/)
+- **LinkedIn:** [https://www.linkedin.com/in/lizianmaiumy/](https://www.linkedin.com/in/lizianmaiumy/)
