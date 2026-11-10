@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Lizian 👋
 
-<!--
-**lizianmaiumy/lizianmaiumy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** | Enthusiastic about **Software Engineering**, **Cybersecurity** & **Backend Systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, SQL, C
+- **Security & Networking:** SSL/TLS, HTTP Protocols, OWASP Standards
+- **Tools & Environments:** Git, GitHub, VS Code, Linux/Bash
+
+---
+
+### 📌 Featured Projects
+
+- [**url-security-scanner**](https://github.com/lizianmaiumy/url-security-scanner)  
+  *A lightweight Python CLI tool to inspect web security headers and monitor SSL/TLS certificate lifecycles.*
+
+---
+
+### 📬 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/o-seu-perfil](https://www.linkedin.com/in/lizianmaiumy/)
